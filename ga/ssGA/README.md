@@ -1,0 +1,1 @@
+Codigo del algoritmo genético
